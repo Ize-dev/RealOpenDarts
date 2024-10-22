@@ -1,7 +1,7 @@
 # RealOpenDarts WIP
 Open Source Darts Game for Android - Powered by Unity and Arduino, Compatible with Any Electric Dartboard
 
-Currently, only the Arduino/ESP32 code is available.
+Currently, only the Arduino/ESP32 code is available, which is mostly unchanged from the original project.
 
 I'm actively developing the Android app/client.
 
@@ -11,3 +11,4 @@ I may include support for AutoDarts if I find the time to explore their API, pot
 
 This project was inspired by OpenDarts, which, despite the name, is not actually open source. Therefore, I'll be releasing all my code and assets here for free.
 
+The original idea and instructables on how to modify your electric dartboard and the original arduino code can be found here: https://www.instructables.com/OpenDarts-the-Home-Made-Darts-Machine/
